@@ -31,7 +31,7 @@ cd Pharmacy-management-system
 3. Install packages with composer
 
 ```
-composer install
+composer update
 ```
 
 4. Install npm packages with 
